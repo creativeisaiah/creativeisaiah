@@ -56,5 +56,5 @@ You can find my music here:
 ---
 
 <p align="center">
-  Thanks for stopping by ✨
-</p>
+  Thanksfor stopping by ✨
+</p>  
