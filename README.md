@@ -1,10 +1,60 @@
-- 👋 Hi, I’m @creativeisaiah
-- 👀 I started my coding journey July 20th, 2021 and im completely fasscinated with programming. I,ve always been interested, but never gave it a shot.
-- 🌱 I’m currently learning the C#/.net stack and eventually want to get into app development.  I've tried xamarin, but I like Kotlin better.
-- 📫 I'm a professional musician and don't have a cs background.  You can listen to my music over in spotify Artist: CreativeIsaiah
-or BandCamp.com/creativeisaiah ig: CreativeIsaiah.
+<h1 align="center">Joshua Boyd</h1>
+<h3 align="center">CreativeIsaiah • Developer • Musician • Builder</h3>
 
-<!---
-creativeisaiah/creativeisaiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👋 About Me
+
+I started my coding journey on **July 20th, 2021** — and I’ve been completely fascinated ever since.
+
+I don’t come from a traditional CS background.  
+I’m a professional musician who fell in love with programming and never looked back.
+
+Now I’m building projects across:
+
+- 🎮 Game Development  
+- 🌐 Web Applications  
+- ☁️ Cloud & Full-Stack Systems  
+
+---
+
+## 🚀 Currently Learning
+
+- C# / .NET  
+- Kotlin (Android development direction)  
+- Angular & TypeScript  
+- Game architecture & engine design  
+
+---
+
+## 🎯 What I'm Working Toward
+
+- Building full-scale game systems  
+- Shipping polished web apps  
+- Blending creativity + engineering  
+- Becoming a professional software engineer  
+
+---
+
+## 🎵 Music
+
+Outside of tech, I’m a professional musician.
+
+You can find my music here:
+
+- Spotify: **CreativeIsaiah**
+- Bandcamp: bandcamp.com/creativeisaiah
+- Instagram: @CreativeIsaiah
+
+---
+
+## 🧠 Philosophy
+
+> Creativity and engineering aren’t opposites.  
+> They’re the same skill expressed differently.
+
+---
+
+<p align="center">
+  Thanks for stopping by ✨
+</p>
